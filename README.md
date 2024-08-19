@@ -1,6 +1,6 @@
 # CryptoManagerServer
 A Node.JS Server For My Crypto Currency Manager
-I am currently building a cryptocurrency visualisation and datamanagement tool to learn about WebSockets, Node.JS and Blazor WASM.
+I am currently building a cryptocurrency visualisation and data management tool to learn about WebSockets, Node.JS and Blazor WASM.
 This Node.JS server will act as the backend for that site, with WebSockets to Binance and the Front-End to create a seemless, live data manipulation and analysis tool
 
 This is the list of Tasks I think I need to work through for this project
